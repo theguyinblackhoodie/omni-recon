@@ -65,3 +65,26 @@ Run with root permissions:
 sudo python OmniRecon.py
 
 (Note: Without root, the ARP scan may be limited, but OSINT features will still work.)
+
+
+<img width="1592" height="813" alt="image" src="https://github.com/user-attachments/assets/4413217e-f891-4f35-898e-93db36705a91" />
+
+
+⚠️ Troubleshooting
+"No devices found" / Only 1 device found?
+
+Ensure you are running the tool as Administrator/Root.
+
+On Windows, check if your WiFi Network Profile is set to "Private". If it is set to "Public", Windows blocks network discovery.
+
+Scapy/Driver Errors:
+
+Reinstall Npcap and ensure "WinPcap API-compatible Mode" is selected.
+
+⚖️ Disclaimer
+OmniRecon is developed for educational purposes and valid network testing only. Do not use this tool on networks you do not own or have explicit permission to audit. The author is not responsible for any misuse or damage caused by this program.
+
+👤 Author
+TheGuyInBlackHoodie
+
+GitHub: @theguyinblackhoodie
