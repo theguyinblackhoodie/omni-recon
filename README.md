@@ -47,26 +47,21 @@ Since this tool interacts with network interfaces, it requires Administrator or 
 🪟 Windows
 Run Command Prompt (CMD) or PowerShell as Administrator:
 
-Bash
-
 python OmniRecon.py
+
 🐧 Linux / macOS
 Run the script using sudo:
 
-Bash
-
 sudo python3 OmniRecon.py
+
 📱 Android (Termux)
 You need Root Access on your device for full scanning features.
 
 Install dependencies:
 
-Bash
-
 pkg install python scapy tsu
 Run with root permissions:
 
-Bash
-
 sudo python OmniRecon.py
+
 (Note: Without root, the ARP scan may be limited, but OSINT features will still work.)
