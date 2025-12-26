@@ -31,7 +31,7 @@ Ensure you have **Python 3.x** installed.
 
 ### 1. Clone the Repository
 bash
-git clone [https://github.com/YOUR_USERNAME/OmniRecon.git](https://github.com/theguyinblackhoodie/omni-recon.git)
+git clone [https://github.com/theguyinblackhoodie/omni-recon.git](https://github.com/theguyinblackhoodie/omni-recon.git)
 cd OmniRecon
 2. Install Dependencies
 Run the following command to install required libraries:
