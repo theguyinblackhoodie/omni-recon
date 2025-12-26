@@ -35,7 +35,7 @@ git clone [https://github.com/theguyinblackhoodie/omni-recon.git](https://github
 
 cd OmniRecon
 
-2. Install Dependencies
+### 2. Install Dependencies
 Run the following command to install required libraries:
 
 pip install scapy requests colorama python-whois
