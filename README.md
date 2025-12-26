@@ -34,7 +34,6 @@ Ensure you have **Python 3.x** installed.
 git clone [https://github.com/theguyinblackhoodie/omni-recon.git](https://github.com/theguyinblackhoodie/omni-recon.git)
 
 cd OmniRecon
-
 2. Install Dependencies
 Run the following command to install required libraries:
 
