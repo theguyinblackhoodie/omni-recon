@@ -30,15 +30,16 @@ Unlike traditional scanners that often crash due to Npcap/WinPcap driver conflic
 Ensure you have **Python 3.x** installed.
 
 ### 1. Clone the Repository
-bash
+
 git clone [https://github.com/theguyinblackhoodie/omni-recon.git](https://github.com/theguyinblackhoodie/omni-recon.git)
+
 cd OmniRecon
+
 2. Install Dependencies
 Run the following command to install required libraries:
 
-Bash
-
 pip install scapy requests colorama python-whois
+
 ⚠️ Windows Users: You must install Npcap for Scapy to work correctly. During installation, ensure you check the box "Install in WinPcap API-compatible Mode".
 
 💻 Usage Instructions
